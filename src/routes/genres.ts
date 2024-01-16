@@ -1,10 +1,13 @@
 import express from "express";
 import { Genre, validateGenre } from "../models/Genre";
+import authorize from "../middlewares/authorization";
+import adminCheck from "../middlewares/adminCheck";
 
 const router = express.Router();
 
-router.get("/", async (req, res) => {
+router.get("/", async (req: express.Request, res: express.Response) => {
   const genres = await Genre.find().sort("name");
+  console.log(genres);
   res.send(genres);
 });
 
@@ -17,7 +20,7 @@ router.get("/:id", async (req, res) => {
   res.send(genre);
 });
 
-router.post("/", async (req, res) => {
+router.post("/", authorize, async (req, res) => {
   const { error, value } = validateGenre(req.body);
   if (error) {
     res.status(400).send(error.message);
@@ -58,7 +61,7 @@ router.put("/:id", async (req, res) => {
   res.send(genre);
 });
 
-router.delete("/:id", async (req, res) => {
+router.delete("/:id", [authorize, adminCheck], async (req: any, res: any) => {
   const genre = await Genre.findByIdAndDelete(req.params.id);
 
   if (!genre)

@@ -1,20 +1,17 @@
+require("express-async-errors");
+import start from "./startup/routes";
 import express from "express";
-import mongoose from "mongoose";
-import genreRouter from "./routes/genres";
-import customerRouter from "./routes/customers";
 import "dotenv/config";
+import connectToDB from "./startup/db";
+connectToDB();
 
 const app = express();
-mongoose
-  .connect("mongodb://localhost/vidly")
-  .then(() => console.log("Connected to MongoDB"))
-  .catch((err) => console.log(err.message));
+start(app);
 
-app.use(express.json());
-app.use("/api/genres", genreRouter);
-app.use("/api/customers", customerRouter);
+if (!process.env.PRIVATE_KEY)
+  throw new Error("FATAL ERROR: jwtPrivateKey is not defined");
 
 const port = process.env.PORT ?? 8080;
-app.listen(port, () => {
+export const server = app.listen(port, () => {
   console.log("Server started on http://localhost:" + port);
 });
