@@ -1,5 +1,5 @@
 import winston from "winston";
-import "winston-mongodb";
+// import "winston-mongodb";
 
 winston.addColors({ info: ["green", "bold"] });
 

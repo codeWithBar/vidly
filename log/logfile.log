@@ -414,3 +414,4 @@
 {"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb+srv://bsoker98:S34abz5oIElLX2aZ@cluster0.xccuyat.mongodb.net/"}
