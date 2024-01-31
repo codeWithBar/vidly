@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "start": "ts-node --files ./src/index.ts",
+    "start": "set DOTENV_KEY=dotenv://:key_551cafa91c677f5e038bbf2ea755d404f720dc208438e50c32e20b65eee134b9@dotenv.org/vault/.env.vault?environment=production && ts-node --files ./src/index.ts",
     "test": "set DOTENV_KEY=dotenv://:key_de90b372808c354d8838c4805cfaa1b0cc0c59e5e7c694f3f7382ce7cc1fa2c3@dotenv.org/vault/.env.vault?environment=ci && jest --detectOpenHandles --verbose --coverage",
     "start:development": "set DOTENV_KEY=dotenv://:key_aaed085aef6e55a3ce48cf2e639e3321b85e905681b9fc3efab8c823624c707b@dotenv.org/vault/.env.vault?environment=development && ts-node --files ./src/index.ts",
     "start:ci": "set DOTENV_KEY=dotenv://:key_de90b372808c354d8838c4805cfaa1b0cc0c59e5e7c694f3f7382ce7cc1fa2c3@dotenv.org/vault/.env.vault?environment=ci && ts-node --files ./src/index.ts"

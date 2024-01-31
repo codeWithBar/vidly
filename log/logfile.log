@@ -413,3 +413,4 @@
 {"level":"info","message":"Connected to mongodb://localhost/vidly"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
