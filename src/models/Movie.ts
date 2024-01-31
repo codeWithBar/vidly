@@ -8,7 +8,7 @@ export const Movie = mongoose.model(
     title: {
       type: String,
       required: true,
-      minLength: 1,
+      minLength: 5,
       maxLength: 255,
     },
     genre: {

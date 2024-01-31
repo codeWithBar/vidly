@@ -2,6 +2,7 @@ import express from "express";
 import { Genre, validateGenre } from "../models/Genre";
 import authorize from "../middlewares/authorization";
 import adminCheck from "../middlewares/adminCheck";
+import validateObjectID from "../middlewares/validateObjectID";
 
 const router = express.Router();
 
@@ -11,7 +12,7 @@ router.get("/", async (req: express.Request, res: express.Response) => {
   res.send(genres);
 });
 
-router.get("/:id", async (req, res) => {
+router.get("/:id", validateObjectID, async (req, res) => {
   const genre = await Genre.findById(req.params.id);
 
   if (!genre)

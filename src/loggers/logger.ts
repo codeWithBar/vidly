@@ -13,7 +13,7 @@ export const logger = winston.createLogger({
       ),
     }),
     new winston.transports.MongoDB({
-      db: "mongodb://localhost/vidly",
+      db: process.env.db!,
       options: {
         useUnifiedTopology: true,
       },

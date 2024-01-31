@@ -6,7 +6,7 @@ import { joiPasswordExtendCore } from "joi-password";
 const joiPassword = Joi.extend(joiPasswordExtendCore);
 
 // Check out https://mongoosejs.com/docs/typescript/statics-and-methods.html
-interface User {
+interface IUser {
   name: string;
   email: string;
   password: string;
@@ -17,9 +17,11 @@ interface InstanceMethods {
   generateAuthToken(): string;
 }
 
-type UserModel = Model<User, {}, InstanceMethods>;
+interface UserModel extends Model<IUser, {}, InstanceMethods> {
+  print(): void;
+}
 
-const userSchema = new Schema<User, UserModel, InstanceMethods>({
+const userSchema = new Schema<IUser, UserModel, InstanceMethods>({
   name: {
     type: String,
     required: true,
@@ -50,7 +52,11 @@ userSchema.method("generateAuthToken", function () {
   return token;
 });
 
-export const User = mongoose.model("User", userSchema);
+userSchema.static("print", () => {
+  console.log("Hello World!");
+});
+
+export const User = mongoose.model<IUser, UserModel>("User", userSchema);
 
 export function validateUser(user: any) {
   const schema = Joi.object({

@@ -70,3 +70,343 @@
 {"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"someunknownid\" (type string) at path \"_id\" for model \"Genre\""}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"someunknownid\" (type string) at path \"_id\" for model \"Genre\""}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"someunknownid\" (type string) at path \"_id\" for model \"Genre\""}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"someunknownid\" (type string) at path \"_id\" for model \"Genre\""}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"someunknownid\" (type string) at path \"_id\" for model \"Genre\""}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \":someunknownid\" (type string) at path \"_id\" for model \"Genre\""}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \":someunknownid\" (type string) at path \"_id\" for model \"Genre\""}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\""}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"movie.rental._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"movie.rental._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"movie.rental._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"movie.rental._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"movie.rental._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"movie.rental._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"movie.rental._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"movie.rental._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"movie.rental._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"movie.rental._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"movie.rental._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"movie.rental._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"{ _id: 'rental.movie._id' }\" (type Object) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"{ _id: 'rental.movie._id' }\" (type Object) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"{ _id: 'rental.movie._id' }\" (type Object) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"{ _id: 'rental.movie._id' }\" (type Object) at path \"_id\" for model \"Movie\""}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"rental.movie._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"rental.movie._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"rental.movie._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"rental.movie._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"movie._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"movie._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"movie._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"movie._id\" (type string) at path \"_id\" for model \"Movie\""}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'dailyRentalRate')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'dailyRentalRate')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'dailyRentalRate')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'dailyRentalRate')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'dailyRentalRate')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'dailyRentalRate')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'dailyRentalRate')"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}

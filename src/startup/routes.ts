@@ -5,6 +5,7 @@ import movieRouter from "../routes/movies";
 import rentalRouter from "../routes/rentals";
 import usersRouter from "../routes/users";
 import auth from "../routes/auth";
+import returnsRouter from "../routes/returns";
 import { errorHandler } from "../middlewares/error";
 
 export default function (app: express.Application) {
@@ -15,6 +16,7 @@ export default function (app: express.Application) {
   app.use("/api/rentals", rentalRouter);
   app.use("/api/users", usersRouter);
   app.use("/api/auth", auth);
+  app.use("/api/returns", returnsRouter);
 
   app.use(errorHandler);
 }
