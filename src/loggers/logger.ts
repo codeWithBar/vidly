@@ -12,12 +12,12 @@ export const logger = winston.createLogger({
         winston.format.simple()
       ),
     }),
-    new winston.transports.MongoDB({
-      db: process.env.db!,
-      options: {
-        useUnifiedTopology: true,
-      },
-    }),
+    // new winston.transports.MongoDB({
+    //   db: process.env.db!,
+    //   options: {
+    //     useUnifiedTopology: true,
+    //   },
+    // }),
   ],
   exceptionHandlers: [
     new winston.transports.File({
